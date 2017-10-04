@@ -1,0 +1,48 @@
+h1{
+color:orange;
+}
+
+#our{margin:25px; }
+
+
+#prog{margin:25px; }
+
+
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;
+}
+#section {
+    width:925px;
+    float:left;
+    padding:190px;
+margin-left:161;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+
+}
+
+li{
+display:inline;
+
+}ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+} 
+a {
+    display: block;
+    width: 60px;
+}
+h1{
+margin-left:375px;
+}

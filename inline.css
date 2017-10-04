@@ -1,0 +1,20 @@
+
+ul {
+    list-style-type: none;
+    margin: 9px;
+    padding: 8px 8px 8px 364px;
+    overflow: hidden;
+padding-left:478px;
+
+}
+
+li {
+    float: left;
+    margin-left:76px;
+}
+
+a {
+    display: block;
+    width: 60px;
+    background-color: #dddddd;
+}

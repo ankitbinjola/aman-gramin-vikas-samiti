@@ -1,0 +1,112 @@
+
+	
+	.heading{
+			position:absolute;
+			top:0px;
+			left:200px;
+			height:60px;
+			width:740px;
+			background-color: #255;
+			font-size:20px;
+			font-family:Tahoma;
+			
+		}
+		.heading a {
+			color :white;
+		}
+		
+		.heading-button {
+			position:absolute;6534
+			top:0px;
+			width : 148px;
+			height : 30px;
+			padding : 15px 0 15px 0;
+			text-align : center;
+			cursor:pointer;
+			border-right:solid 1px #ff0000;
+		}
+		#heading-1{
+			left:0px;
+		}
+		
+		#heading-2{
+			left:148px;
+		}
+		#heading-3{
+			left:296px;
+		}
+		#heading-4{
+			left:444px;
+		}
+		#heading-5{
+			left:592px;
+			border-right : none;
+		}
+		
+ #heading-2-menu {
+			  	position : absolute;
+			  	top: 60px;
+			  	left :348px;
+			  	width : 148px;
+			  	background-color: #d8d8d8;
+			  	border:solid 1px c0c0c0;
+			    z-index : 4;
+			    display : none;
+			  }
+			  
+			   #heading-3-menu {
+			  	position : absolute;
+			  	top: 60px;
+			  	left :496px;
+			  	width : 148px;
+			  	background-color: #d8d8d8;
+			  	border:solid 1px c0c0c0;
+			    z-index : 4;
+			    display : none;
+			  }
+			  
+			  #heading-4-menu {
+			  	position : absolute;
+			  	top: 60px;
+			  	left :644px;
+			  	width : 148px;
+			  	background-color: #d8d8d8;
+			  	border:solid 1px c0c0c0;
+			    z-index : 4;
+			    display : none;
+			  }
+			  #heading-5-menu {
+			  	position : absolute;
+			  	top: 60px;
+			  	left :892px;
+			  	width : 148px;
+			  	background-color: #d8d8d8;
+			  	border:solid 1px c0c0c0;
+			    z-index : 4;
+			    display : none;
+			  }
+			  .substrip{
+			  	position:absolute;
+			top:62px;
+			left:220px;
+			height:60px;
+			width:840px;
+			background-color: #0000ff;
+			font-size:15px;
+			font-family:Tahoma;
+			  }
+			  
+			   	  			  
+			  .menu-item {
+			  	padding : 8px 8px 8px 15px;
+			 	font-family : arial, sans-serif;
+			 	font-weight: bold;
+			 	font-size : 13px;
+			 	
+			  	border-bottom : solid 1px #aaa;
+			  	cursor: pointer;
+			  }
+			  .menu-item:hover {
+			  	background-color : #afafaf;
+			  }
+			  
